@@ -1,0 +1,23 @@
+body {
+    background-color: blueviolet;
+}
+.container {
+    background-color: blueviolet;
+    margin-top: 200px;
+}
+.q1 {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px white solid;
+    background-color: blueviolet;
+    border-radius: 30px;
+    color: white;
+}
+.q2 {
+    padding: 10px 20px 10px 20px;
+    background-color: aqua;
+    color: white;
+    border: 1px solid aqua;
+}
